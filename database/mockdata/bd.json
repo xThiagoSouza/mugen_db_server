@@ -1,0 +1,2509 @@
+{
+  "sagas": [
+    {
+      "sagaName": "Basara",
+      "chars": [
+        {
+          "name": "Date Masamune",
+          "thumbnail": "Date Masamune.jpg",
+          "movelist": ["Date Masamune-Moves.jpg"]
+        },
+        {
+          "name": "Katakura Kojuro",
+          "thumbnail": "Katakura Kojuro.jpg",
+          "movelist": ["Katakura Kojuro-Moves.jpg"]
+        },
+        {
+          "name": "Maeda Keiji",
+          "thumbnail": "Maeda Keiji.jpg",
+          "movelist": ["Maeda Keiji-Moves.jpg"]
+        },
+        {
+          "name": "Mouri Motonari",
+          "thumbnail": "Mouri Motonari.jpg",
+          "movelist": ["Mouri Motonari-Moves.jpg"]
+        },
+        {
+          "name": "Oichi",
+          "thumbnail": "Oichi.jpg",
+          "movelist": ["Oichi-Moves.jpg"]
+        },
+        {
+          "name": "Sanada Yukimura",
+          "thumbnail": "Sanada Yukimura.jpg",
+          "movelist": ["Sanada Yukimura-Moves.jpg"]
+        },
+        {
+          "name": "Takenaka Hanbei",
+          "thumbnail": "Takenaka Hanbei.jpg",
+          "movelist": ["Takenaka Hanbei-Moves.jpg"]
+        },
+        {
+          "name": "Toyotomi Hideyoshi",
+          "thumbnail": "Toyotomi Hideyoshi.jpg",
+          "movelist": ["Toyotomi Hideyoshi-Moves.jpg"]
+        },
+        {
+          "name": "Uesugi Kensin",
+          "thumbnail": "Uesugi Kensin.jpg",
+          "movelist": ["Uesugi Kensin-Moves.jpg"]
+        }
+      ]
+    },
+    {
+      "sagaName": "Big Bang Beat",
+      "chars": [
+        {
+          "thumbnail": "Agito.jpg",
+          "name": "Agito",
+          "movelist": ["Agito-Moves1.jpg", "Agito-Moves2.jpg"]
+        },
+        {
+          "thumbnail": "Burai.jpg",
+          "name": "Burai",
+          "movelist": ["Burai-Moves1.jpg", "Burai-Moves2.jpg"]
+        },
+        {
+          "thumbnail": "Kunagi.jpg",
+          "name": "Kunagi",
+          "movelist": ["Kunagi-Moves1.jpg", "Kunagi-Moves2.jpg"]
+        },
+        {
+          "thumbnail": "Ren.jpg",
+          "name": "Ren",
+          "movelist": ["Ren-Moves.jpg"]
+        },
+        {
+          "thumbnail": "Rouga.jpg",
+          "name": "Rouga",
+          "movelist": ["Rouga-Moves1.jpg", "Rouga-Moves2.jpg"]
+        }
+      ]
+    },
+    {
+      "sagaName": "BlazBlue",
+      "chars": [
+        {
+          "thumbnail": "Jin Kisaragi.jpg",
+          "name": "Jin Kisaragi",
+          "movelist": [
+            "Jin Kisaragi-Moves1.jpg",
+            "Jin Kisaragi-Moves2.jpg",
+            "Jin Kisaragi-Moves3.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "sagaName": "Bleach",
+      "chars": [
+        {
+          "thumbnail": "Hitsugaya.jpg",
+          "name": "Hitsugaya",
+          "movelist": ["Hitsugaya-Moves.jpg"]
+        },
+        {
+          "thumbnail": "Ichigo.jpg",
+          "name": "Ichigo",
+          "movelist": ["Ichigo-Moves1.jpg", "Ichigo-Moves2.jpg"]
+        },
+        {
+          "thumbnail": "Ichigo Bankai.jpg",
+          "name": "Ichigo Bankai",
+          "movelist": ["Ichigo Bankai-Moves.jpg"]
+        },
+        {
+          "thumbnail": "Ichigo Mask.jpg",
+          "name": "Ichigo Mask",
+          "movelist": ["Ichigo Mask-Moves.jpg"]
+        },
+        {
+          "thumbnail": "Sado.jpg",
+          "name": "Sado",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Tousen.jpg",
+          "name": "Tousen",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Ukitake.jpg",
+          "name": "Ukitake",
+          "movelist": []
+        }
+      ]
+    },
+    {
+      "sagaName": "Capcom",
+      "chars": [
+        {
+          "thumbnail": "Adam.jpg",
+          "name": "Adam",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Alien Warrior.jpg",
+          "name": "Alien Warrior",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Balrog.jpg",
+          "name": "Balrog",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Batsu.jpg",
+          "name": "Batsu",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Bison.jpg",
+          "name": "Bison",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Blanka.jpg",
+          "name": "Blanka",
+          "movelist": []
+        },
+        {
+          "thumbnail": "C. Viper.jpg",
+          "name": "C. Viper",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Cammy.jpg",
+          "name": "Cammy",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Captain Commando.jpg",
+          "name": "Captain Commando",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Captain Commando2.jpg",
+          "name": "Captain Commando2",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Chris Redfield.jpg",
+          "name": "Chris Redfield",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Chun-Li.jpg",
+          "name": "Chun-Li",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Dee Jay.jpg",
+          "name": "Dee Jay",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Dhalsim.jpg",
+          "name": "Dhalsim",
+          "movelist": []
+        },
+        {
+          "thumbnail": "E.Honda.jpg",
+          "name": "E.Honda",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Eagle.jpg",
+          "name": "Eagle",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Fei long.jpg",
+          "name": "Fei long",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Gouken.jpg",
+          "name": "Gouken",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Gouki God.jpg",
+          "name": "Gouki God",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Gouki Oni.jpg",
+          "name": "Gouki Oni",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Gouki Rare.jpg",
+          "name": "Gouki Rare",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Gouki Shin.jpg",
+          "name": "Gouki Shin",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Gouki.jpg",
+          "name": "Gouki",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Guile.jpg",
+          "name": "Guile",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Guy.jpg",
+          "name": "Guy",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Hayato.jpg",
+          "name": "Hayato",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Ibuki.jpg",
+          "name": "Ibuki",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Jill V..jpg",
+          "name": "Jill V.",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Juri Han.jpg",
+          "name": "Juri Han",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Ken Devil.jpg",
+          "name": "Ken Devil",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Ken Evil.jpg",
+          "name": "Ken Evil",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Ken.jpg",
+          "name": "Ken",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Kyosuke.jpg",
+          "name": "Kyosuke",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Megaman.jpg",
+          "name": "Megaman",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Poison.jpg",
+          "name": "Poison",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Poison2.jpg",
+          "name": "Poison2",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Rashid.jpg",
+          "name": "Rashid",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Ryu Evil.jpg",
+          "name": "Ryu Evil",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Ryu God.jpg",
+          "name": "Ryu God",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Ryu Violent.jpg",
+          "name": "Ryu Violent",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Ryu.jpg",
+          "name": "Ryu",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Ryu2.jpg",
+          "name": "Ryu2",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Sagat.jpg",
+          "name": "Sagat",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Vega Dead.jpg",
+          "name": "Vega Dead",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Vega God.jpg",
+          "name": "Vega God",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Vega.jpg",
+          "name": "Vega",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Zero.jpg",
+          "name": "Zero",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Zero2.jpg",
+          "name": "Zero2",
+          "movelist": []
+        }
+      ]
+    },
+    {
+      "sagaName": "DC",
+      "chars": [
+        {
+          "thumbnail": "Bane.jpg",
+          "name": "Bane",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Batman New52.jpg",
+          "name": "Batman New52",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Batman.jpg",
+          "name": "Batman",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Flash New52.jpg",
+          "name": "Flash New52",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Flash.jpg",
+          "name": "Flash",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Hawkman.jpg",
+          "name": "Hawkman",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Lobo.jpg",
+          "name": "Lobo",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Superman Beyond.jpg",
+          "name": "Superman Beyond",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Wonder Woman.jpg",
+          "name": "Wonder Woman",
+          "movelist": []
+        }
+      ]
+    },
+    {
+      "sagaName": "DMC",
+      "chars": [
+        {
+          "thumbnail": "Dante.jpg",
+          "name": "Dante",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Dante2.jpg",
+          "name": "Dante2",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Nero.jpg",
+          "name": "Nero",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Vergil.jpg",
+          "name": "Vergil",
+          "movelist": []
+        }
+      ]
+    },
+    {
+      "sagaName": "Desconhecido",
+      "chars": [
+        {
+          "thumbnail": "Etna.jpg",
+          "name": "Etna",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Hanzo.jpg",
+          "name": "Hanzo",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Ivy.jpg",
+          "name": "Ivy",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Kamui.jpg",
+          "name": "Kamui",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Kosmos.jpg",
+          "name": "Kosmos",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Kotaro Fuuma.jpg",
+          "name": "Kotaro Fuuma",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Lenneth.jpg",
+          "name": "Lenneth",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Mamiya.jpg",
+          "name": "Mamiya",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Saki.jpg",
+          "name": "Saki",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Sanada Kojiroh.jpg",
+          "name": "Sanada Kojiroh",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Tetsuo Advance.jpg",
+          "name": "Tetsuo Advance",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Yashaoh.jpg",
+          "name": "Yashaoh",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Yoshitora Tokugawa.jpg",
+          "name": "Yoshitora Tokugawa",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Zantetsu.jpg",
+          "name": "Zantetsu",
+          "movelist": []
+        }
+      ]
+    },
+    {
+      "sagaName": "Dragon Ball",
+      "chars": [
+        {
+          "thumbnail": "Android16.jpg",
+          "name": "Android16",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Android18.jpg",
+          "name": "Android18",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Bardock SSJ.jpg",
+          "name": "Bardock SSJ",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Bardock.jpg",
+          "name": "Bardock",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Bills.jpg",
+          "name": "Bills",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Burter.jpg",
+          "name": "Burter",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Buu Fat.jpg",
+          "name": "Buu Fat",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Buu Kid.jpg",
+          "name": "Buu Kid",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Buu.jpg",
+          "name": "Buu",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Cell.jpg",
+          "name": "Cell",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Dr Gero.jpg",
+          "name": "Dr Gero",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Frieza.jpg",
+          "name": "Frieza",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Ginyu.jpg",
+          "name": "Ginyu",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Gohan Future.jpg",
+          "name": "Gohan Future",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Gohan Kid.jpg",
+          "name": "Gohan Kid",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Gohan Son.jpg",
+          "name": "Gohan Son",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Gohan.jpg",
+          "name": "Gohan",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Gohan2.jpg",
+          "name": "Gohan2",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Goku Deus.jpg",
+          "name": "Goku Deus",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Goku SS.jpg",
+          "name": "Goku SS",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Goku SS3.jpg",
+          "name": "Goku SS3",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Goku SSGSS.jpg",
+          "name": "Goku SSGSS",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Goku Son.jpg",
+          "name": "Goku Son",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Goku.jpg",
+          "name": "Goku",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Gotenks Super.jpg",
+          "name": "Gotenks Super",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Krillin.jpg",
+          "name": "Krillin",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Piccolo.jpg",
+          "name": "Piccolo",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Trunks SS.jpg",
+          "name": "Trunks SS",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Vegeta.jpg",
+          "name": "Vegeta",
+          "movelist": []
+        }
+      ]
+    },
+    {
+      "sagaName": "Final Fantasy",
+      "chars": [
+        {
+          "thumbnail": "Cloud.jpg",
+          "name": "Cloud",
+          "movelist": []
+        }
+      ]
+    },
+    {
+      "sagaName": "Guilty Gear",
+      "chars": [
+        {
+          "thumbnail": "A.B.A.jpg",
+          "name": "A.B.A",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Anji.jpg",
+          "name": "Anji",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Axl.jpg",
+          "name": "Axl",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Baiken.jpg",
+          "name": "Baiken",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Bridget.jpg",
+          "name": "Bridget",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Chipp.jpg",
+          "name": "Chipp",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Dizzy.jpg",
+          "name": "Dizzy",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Eddie.jpg",
+          "name": "Eddie",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Fau.jpg",
+          "name": "Fau",
+          "movelist": []
+        },
+        {
+          "thumbnail": "I-NO.jpg",
+          "name": "I-NO",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Jam.jpg",
+          "name": "Jam",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Joh.jpg",
+          "name": "Joh",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Justice.jpg",
+          "name": "Justice",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Kliff.jpg",
+          "name": "Kliff",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Ky.jpg",
+          "name": "Ky",
+          "movelist": []
+        },
+        {
+          "thumbnail": "May.jpg",
+          "name": "May",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Millia Rage.jpg",
+          "name": "Millia Rage",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Pot.jpg",
+          "name": "Pot",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Slayer.jpg",
+          "name": "Slayer",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Sol.jpg",
+          "name": "Sol",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Testa.jpg",
+          "name": "Testa",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Venom.jpg",
+          "name": "Venom",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Zappa.jpg",
+          "name": "Zappa",
+          "movelist": []
+        }
+      ]
+    },
+    {
+      "sagaName": "Halo",
+      "chars": [
+        {
+          "thumbnail": "Halo.jpg",
+          "name": "Halo",
+          "movelist": []
+        }
+      ]
+    },
+    {
+      "sagaName": "Hokuto no Ken",
+      "chars": [
+        {
+          "thumbnail": "Jagi.jpg",
+          "name": "Jagi",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Juda.jpg",
+          "name": "Juda",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Kenshirou.jpg",
+          "name": "Kenshirou",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Raoh.jpg",
+          "name": "Raoh",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Rei.jpg",
+          "name": "Rei",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Toki.jpg",
+          "name": "Toki",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Thouther.jpg",
+          "name": "Thouther",
+          "movelist": []
+        }
+      ]
+    },
+    {
+      "sagaName": "JoJo Bizarre Adventure",
+      "chars": [
+        {
+          "thumbnail": "Jotaro.jpg",
+          "name": "Jotaro",
+          "movelist": []
+        },
+        {
+          "thumbnail": "SDio.jpg",
+          "name": "SDio",
+          "movelist": []
+        }
+      ]
+    },
+    {
+      "sagaName": "Killer Instinct",
+      "chars": [
+        {
+          "thumbnail": "Fulgore.jpg",
+          "name": "Fulgore",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Jago.jpg",
+          "name": "Jago",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Orchid.jpg",
+          "name": "Orchid",
+          "movelist": []
+        }
+      ]
+    },
+    {
+      "sagaName": "Last Blade",
+      "chars": [
+        {
+          "thumbnail": "Kaede.jpg",
+          "name": "Kaede",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Kagami.jpg",
+          "name": "Kagami",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Moriya.jpg",
+          "name": "Moriya",
+          "movelist": []
+        }
+      ]
+    },
+    {
+      "sagaName": "Marvel",
+      "chars": [
+        {
+          "thumbnail": "Anakaris.jpg",
+          "name": "Anakaris",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Apocalypse.jpg",
+          "name": "Apocalypse",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Archangel.jpg",
+          "name": "Archangel",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Black Cat.jpg",
+          "name": "Black Cat",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Black Heart.jpg",
+          "name": "Black Heart",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Cable.jpg",
+          "name": "Cable",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Captain America.jpg",
+          "name": "Captain America",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Colossus.jpg",
+          "name": "Colossus",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Cyclops Astonishing.jpg",
+          "name": "Cyclops Astonishing",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Cyclops.jpg",
+          "name": "Cyclops",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Daredevil.jpg",
+          "name": "Daredevil",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Deadpool.jpg",
+          "name": "Deadpool",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Donovan.jpg",
+          "name": "Donovan",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Dr. Doom.jpg",
+          "name": "Dr. Doom",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Dr. Strange.jpg",
+          "name": "Dr. Strange",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Gambit.jpg",
+          "name": "Gambit",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Ghost Rider.jpg",
+          "name": "Ghost Rider",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Hayato.jpg",
+          "name": "Hayato",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Hayato2.jpg",
+          "name": "Hayato2",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Hulk.jpg",
+          "name": "Hulk",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Human Torch.jpg",
+          "name": "Human Torch",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Iceman.jpg",
+          "name": "Iceman",
+          "movelist": []
+        },
+        {
+          "thumbnail": "IronMan.jpg",
+          "name": "IronMan",
+          "movelist": []
+        },
+        {
+          "thumbnail": "J. Talbain.jpg",
+          "name": "J. Talbain",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Jean Grey.jpg",
+          "name": "Jean Grey",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Jean Grey Dark Phoenix.jpg",
+          "name": "Jean Grey Dark Phoenix",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Jin Saotome.jpg",
+          "name": "Jin Saotome",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Jin.jpg",
+          "name": "Jin",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Jubilee.jpg",
+          "name": "Jubilee",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Juggernaut.jpg",
+          "name": "Juggernaut",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Kenji.jpg",
+          "name": "Kenji",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Magneto.jpg",
+          "name": "Magneto",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Marrow.jpg",
+          "name": "Marrow",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Nick Fury.jpg",
+          "name": "Nick Fury",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Nova.jpg",
+          "name": "Nova",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Omega Red.jpg",
+          "name": "Omega Red",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Psylocke.jpg",
+          "name": "Psylocke",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Punisher.jpg",
+          "name": "Punisher",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Rogue.jpg",
+          "name": "Rogue",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Ryo.jpg",
+          "name": "Ryo",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Sabretooth.jpg",
+          "name": "Sabretooth",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Sandman.jpg",
+          "name": "Sandman",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Sentinel.jpg",
+          "name": "Sentinel",
+          "movelist": []
+        },
+        {
+          "thumbnail": "She Hulk.jpg",
+          "name": "She Hulk",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Shocker.jpg",
+          "name": "Shocker",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Silver Samurai.jpg",
+          "name": "Silver Samurai",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Silver Surfer.jpg",
+          "name": "Silver Surfer",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Silver Surfer2.jpg",
+          "name": "Silver Surfer2",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Sonson.jpg",
+          "name": "Sonson",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Spawn.jpg",
+          "name": "Spawn",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Spawn2.jpg",
+          "name": "Spawn2",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Spiderman.jpg",
+          "name": "Spiderman",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Spiderman2099.jpg",
+          "name": "Spiderman2099",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Spiral.jpg",
+          "name": "Spiral",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Storm.jpg",
+          "name": "Storm",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Symbiote Agony.jpg",
+          "name": "Symbiote Agony",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Symbiote Carnage.jpg",
+          "name": "Symbiote Carnage",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Symbiote Lasher.jpg",
+          "name": "Symbiote Lasher",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Symbiote Phage.jpg",
+          "name": "Symbiote Phage",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Symbiote Scorn.jpg",
+          "name": "Symbiote Scorn",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Symbiote Scream.jpg",
+          "name": "Symbiote Scream",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Thor.jpg",
+          "name": "Thor",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Venom.jpg",
+          "name": "Venom",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Vulture.jpg",
+          "name": "Vulture",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Warmachine.jpg",
+          "name": "Warmachine",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Wolverine.jpg",
+          "name": "Wolverine",
+          "movelist": []
+        }
+      ]
+    },
+    {
+      "sagaName": "Melty Blood",
+      "chars": [
+        {
+          "thumbnail": "Akaakiha.jpg",
+          "name": "Akaakiha",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Aoko Aozaki.jpg",
+          "name": "Aoko Aozaki",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Akaitsuki.jpg",
+          "name": "Akaitsuki",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Arc Red.jpg",
+          "name": "Arc Red",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Ciel.jpg",
+          "name": "Ciel",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Hisui.jpg",
+          "name": "Hisui",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Kishima.jpg",
+          "name": "Kishima",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Kohaku.jpg",
+          "name": "Kohaku",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Len White.jpg",
+          "name": "Len White",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Miyako.jpg",
+          "name": "Miyako",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Nanaya.jpg",
+          "name": "Nanaya",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Nero.jpg",
+          "name": "Nero",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Satsuki.jpg",
+          "name": "Satsuki",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Sion_A.jpg",
+          "name": "Sion_A",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Sion_T.jpg",
+          "name": "Sion_T",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Tohno.jpg",
+          "name": "Tohno",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Warachia.jpg",
+          "name": "Warachia",
+          "movelist": []
+        }
+      ]
+    },
+    {
+      "sagaName": "Mortal Kombat",
+      "chars": [
+        {
+          "thumbnail": "Ermac.jpg",
+          "name": "Ermac",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Kano.jpg",
+          "name": "Kano",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Kung Lao.jpg",
+          "name": "Kung Lao",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Liu Kang.jpg",
+          "name": "Liu Kang",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Nightwolf.jpg",
+          "name": "Nightwolf",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Raiden.jpg",
+          "name": "Raiden",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Reptile.jpg",
+          "name": "Reptile",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Scorpion.jpg",
+          "name": "Scorpion",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Shang Tsung.jpg",
+          "name": "Shang Tsung",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Shang Tsung2.jpg",
+          "name": "Shang Tsung2",
+          "movelist": []
+        },
+        {
+          "thumbnail": "SubZero Old.jpg",
+          "name": "SubZero Old",
+          "movelist": []
+        },
+        {
+          "thumbnail": "SubZero.jpg",
+          "name": "SubZero",
+          "movelist": []
+        }
+      ]
+    },
+    {
+      "sagaName": "Naruto",
+      "chars": [
+        {
+          "thumbnail": "Naruto.jpg",
+          "name": "Naruto",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Sasuke.jpg",
+          "name": "Sasuke",
+          "movelist": []
+        }
+      ]
+    },
+    {
+      "sagaName": "One Piece",
+      "chars": [
+        {
+          "thumbnail": "Ace.jpg",
+          "name": "Ace",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Brook.jpg",
+          "name": "Brook",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Luffy.jpg",
+          "name": "Luffy",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Nami.jpg",
+          "name": "Nami",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Robin.jpg",
+          "name": "Robin",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Sanji.jpg",
+          "name": "Sanji",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Usopp.jpg",
+          "name": "Usopp",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Zoro.jpg",
+          "name": "Zoro",
+          "movelist": []
+        }
+      ]
+    },
+    {
+      "sagaName": "Rage of the Dragons",
+      "chars": [
+        {
+          "thumbnail": "Billy.jpg",
+          "name": "Billy",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Jimmylee.jpg",
+          "name": "Jimmylee",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Johann.jpg",
+          "name": "Johann",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Lynn.jpg",
+          "name": "Lynn",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Oni.jpg",
+          "name": "Oni",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Radel.jpg",
+          "name": "Radel",
+          "movelist": []
+        }
+      ]
+    },
+    {
+      "sagaName": "Rurouni Kenshin",
+      "chars": [
+        {
+          "thumbnail": "Aoshi.jpg",
+          "name": "Aoshi",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Kenshin.jpg",
+          "name": "Kenshin",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Shishio.jpg",
+          "name": "Shishio",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Soujiro.jpg",
+          "name": "Soujiro",
+          "movelist": []
+        }
+      ]
+    },
+    {
+      "sagaName": "SNK",
+      "chars": [
+        {
+          "thumbnail": "Andy.jpg",
+          "name": "Andy",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Athena.jpg",
+          "name": "Athena",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Athena2.jpg",
+          "name": "Athena2",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Athena3.jpg",
+          "name": "Athena3",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Benimaru.jpg",
+          "name": "Benimaru",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Benimaru2.jpg",
+          "name": "Benimaru2",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Blue Mary.jpg",
+          "name": "Blue Mary",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Chizuru.jpg",
+          "name": "Chizuru",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Chris Orochi.jpg",
+          "name": "Chris Orochi",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Chris.jpg",
+          "name": "Chris",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Clark.jpg",
+          "name": "Clark",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Daimon.jpg",
+          "name": "Daimon",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Eiji.jpg",
+          "name": "Eiji",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Eiji2.jpg",
+          "name": "Eiji2",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Geese.jpg",
+          "name": "Geese",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Geese2.jpg",
+          "name": "Geese2",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Geese3.jpg",
+          "name": "Geese3",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Igniz.jpg",
+          "name": "Igniz",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Igniz2.jpg",
+          "name": "Igniz2",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Iori.jpg",
+          "name": "Iori",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Iori2.jpg",
+          "name": "Iori2",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Iori3.jpg",
+          "name": "Iori3",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Iori Orochi.jpg",
+          "name": "Iori Orochi",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Iori Orochi2.jpg",
+          "name": "Iori Orochi2",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Iori Another.jpg",
+          "name": "Iori Another",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Joe.jpg",
+          "name": "Joe",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Joe2.jpg",
+          "name": "Joe2",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Joe3.jpg",
+          "name": "Joe3",
+          "movelist": []
+        },
+        {
+          "thumbnail": "K'.jpg",
+          "name": "K'",
+          "movelist": []
+        },
+        {
+          "thumbnail": "K'2.jpg",
+          "name": "K'2",
+          "movelist": []
+        },
+        {
+          "thumbnail": "K'3.jpg",
+          "name": "K'3",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Kasumi.jpg",
+          "name": "Kasumi",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Kensou.jpg",
+          "name": "Kensou",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Kensou2.jpg",
+          "name": "Kensou2",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Kim.jpg",
+          "name": "Kim",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Kim2.jpg",
+          "name": "Kim2",
+          "movelist": []
+        },
+        {
+          "thumbnail": "King.jpg",
+          "name": "King",
+          "movelist": []
+        },
+        {
+          "thumbnail": "King2.jpg",
+          "name": "King2",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Krizalid.jpg",
+          "name": "Krizalid",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Kula.jpg",
+          "name": "Kula",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Kyo.jpg",
+          "name": "Kyo",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Kyo2.jpg",
+          "name": "Kyo2",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Kyo Kusanagi.jpg",
+          "name": "Kyo Kusanagi",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Leona.jpg",
+          "name": "Leona",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Leona2.jpg",
+          "name": "Leona2",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Leona3.jpg",
+          "name": "Leona3",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Mai.jpg",
+          "name": "Mai",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Mai2.jpg",
+          "name": "Mai2",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Mai3.jpg",
+          "name": "Mai3",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Mai4.jpg",
+          "name": "Mai4",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Mai5.jpg",
+          "name": "Mai5",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Maxima.jpg",
+          "name": "Maxima",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Nakoruru.jpg",
+          "name": "Nakoruru",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Orochi Supreme.jpg",
+          "name": "Orochi Supreme",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Orochi.jpg",
+          "name": "Orochi",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Orochi2.jpg",
+          "name": "Orochi2",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Ralf.jpg",
+          "name": "Ralf",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Rock.jpg",
+          "name": "Rock",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Rock2.jpg",
+          "name": "Rock2",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Robert.jpg",
+          "name": "Robert",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Rugal.jpg",
+          "name": "Rugal",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Rugal2.jpg",
+          "name": "Rugal2",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Rugal3.jpg",
+          "name": "Rugal3",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Rugal Ult.jpg",
+          "name": "Rugal Ult",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Ryo.jpg",
+          "name": "Ryo",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Ryo2.jpg",
+          "name": "Ryo2",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Saisyu.jpg",
+          "name": "Saisyu",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Setsuna.jpg",
+          "name": "Setsuna",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Shermie.jpg",
+          "name": "Shermie",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Shermie2.jpg",
+          "name": "Shermie2",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Shingo.jpg",
+          "name": "Shingo",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Shingo2.jpg",
+          "name": "Shingo2",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Takuma.jpg",
+          "name": "Takuma",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Terry.jpg",
+          "name": "Terry",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Terry2.jpg",
+          "name": "Terry2",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Terry3.jpg",
+          "name": "Terry3",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Terry4.jpg",
+          "name": "Terry4",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Terry5.jpg",
+          "name": "Terry5",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Terry 2003.jpg",
+          "name": "Terry 2003",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Vanessa.jpg",
+          "name": "Vanessa",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Vanessa2.jpg",
+          "name": "Vanessa2",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Yamazaki.jpg",
+          "name": "Yamazaki",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Yamazaki2.jpg",
+          "name": "Yamazaki2",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Yamazaki3.jpg",
+          "name": "Yamazaki3",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Yashiro.jpg",
+          "name": "Yashiro",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Yashiro2.jpg",
+          "name": "Yashiro2",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Yuri.jpg",
+          "name": "Yuri",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Yuri Sakazaki.jpg",
+          "name": "Yuri Sakazaki",
+          "movelist": []
+        }
+      ]
+    },
+    {
+      "sagaName": "Saint Seiya",
+      "chars": [
+        {
+          "thumbnail": "Afrodita Espectro.jpg",
+          "name": "Afrodita Espectro",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Afrodita de Piscis.jpg",
+          "name": "Afrodita de Piscis",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Aioros de Sagitario.jpg",
+          "name": "Aioros de Sagitario",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Alberich.jpg",
+          "name": "Alberich",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Aldebaran.jpg",
+          "name": "Aldebaran",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Algethi.jpg",
+          "name": "Algethi",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Aracne.jpg",
+          "name": "Aracne",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Araknen.jpg",
+          "name": "Araknen",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Asterion.jpg",
+          "name": "Asterion",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Ban.jpg",
+          "name": "Ban",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Cassios.jpg",
+          "name": "Cassios",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Daichi.jpg",
+          "name": "Daichi",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Deathmask Specter.jpg",
+          "name": "Deathmask Specter",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Deathmask.jpg",
+          "name": "Deathmask",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Fenril.jpg",
+          "name": "Fenril",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Hyoga de Cisne.jpg",
+          "name": "Hyoga de Cisne",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Hyoga de Cisne Negro.jpg",
+          "name": "Hyoga de Cisne Negro",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Hyoga de Cisne Negro2.jpg",
+          "name": "Hyoga de Cisne Negro2",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Ichi.jpg",
+          "name": "Ichi",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Ikki de Fenix Negro.jpg",
+          "name": "Ikki de Fenix Negro",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Ikki de Fenix Negro2.jpg",
+          "name": "Ikki de Fenix Negro2",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Ikki de Fenix Negro3.jpg",
+          "name": "Ikki de Fenix Negro3",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Ikki de Fenix.jpg",
+          "name": "Ikki de Fenix",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Ikki de Fenix2.jpg",
+          "name": "Ikki de Fenix2",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Ikki de Fenix3.jpg",
+          "name": "Ikki de Fenix3",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Jabu.jpg",
+          "name": "Jabu",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Jabu2.jpg",
+          "name": "Jabu2",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Jango.jpg",
+          "name": "Jango",
+          "movelist": []
+        },
+        {
+          "thumbnail": "June.jpg",
+          "name": "June",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Llama.jpg",
+          "name": "Llama",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Luxor.jpg",
+          "name": "Luxor",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Marine.jpg",
+          "name": "Marine",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Maya.jpg",
+          "name": "Maya",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Megres.jpg",
+          "name": "Megres",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Mime.jpg",
+          "name": "Mime",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Minos.jpg",
+          "name": "Minos",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Misty.jpg",
+          "name": "Misty",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Myu.jpg",
+          "name": "Myu",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Nachi.jpg",
+          "name": "Nachi",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Orfeo.jpg",
+          "name": "Orfeo",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Orphee.jpg",
+          "name": "Orphee",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Pharaoh.jpg",
+          "name": "Pharaoh",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Radamanthys.jpg",
+          "name": "Radamanthys",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Seiya de Pegasus Divino.jpg",
+          "name": "Seiya de Pegasus Divino",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Seiya de Pegasus Negro.jpg",
+          "name": "Seiya de Pegasus Negro",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Seiya de Pegasus Negro2.jpg",
+          "name": "Seiya de Pegasus Negro2",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Seiya de Pegasus.jpg",
+          "name": "Seiya de Pegasus",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Seiya de Pegasus2.jpg",
+          "name": "Seiya de Pegasus2",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Seiya de Pegasus3.jpg",
+          "name": "Seiya de Pegasus3",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Shadir.jpg",
+          "name": "Shadir",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Shaka.jpg",
+          "name": "Shaka",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Shiryu de Dragao.jpg",
+          "name": "Shiryu de Dragao",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Shiryu de Dragao2.jpg",
+          "name": "Shiryu de Dragao2",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Shun de Andromeda Negro.jpg",
+          "name": "Shun de Andromeda Negro",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Shun de Andromeda.jpg",
+          "name": "Shun de Andromeda",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Shun de Andromeda2.jpg",
+          "name": "Shun de Andromeda2",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Sigfried.jpg",
+          "name": "Sigfried",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Tenma de Pegasus.jpg",
+          "name": "Tenma de Pegasus",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Tethys.jpg",
+          "name": "Tethys",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Tethys2.jpg",
+          "name": "Tethys2",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Tisifone.jpg",
+          "name": "Tisifone",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Tremy de Sagita.jpg",
+          "name": "Tremy de Sagita",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Ushio.jpg",
+          "name": "Ushio",
+          "movelist": []
+        }
+      ]
+    },
+    {
+      "sagaName": "Samurai Shodown",
+      "chars": [
+        {
+          "thumbnail": "Akuamakusa.jpg",
+          "name": "Akuamakusa",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Charlotte.jpg",
+          "name": "Charlotte",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Galford.jpg",
+          "name": "Galford",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Haohmaru.jpg",
+          "name": "Haohmaru",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Haohmaru2.jpg",
+          "name": "Haohmaru2",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Haohmaru3.jpg",
+          "name": "Haohmaru3",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Ukyo.jpg",
+          "name": "Ukyo",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Zank.jpg",
+          "name": "Zank",
+          "movelist": []
+        }
+      ]
+    },
+    {
+      "sagaName": "Super Metroid",
+      "chars": [
+        {
+          "thumbnail": "Samus.jpg",
+          "name": "Samus",
+          "sagaName": "Super Metroid",
+          "movelist": []
+        }
+      ]
+    },
+    {
+      "sagaName": "Tekken",
+      "chars": [
+        {
+          "thumbnail": "Anna.jpg",
+          "name": "Anna",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Asuka.jpg",
+          "name": "Asuka",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Bryan.jpg",
+          "name": "Bryan",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Christie.jpg",
+          "name": "Christie",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Heihachi.jpg",
+          "name": "Heihachi",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Heihachi2.jpg",
+          "name": "Heihachi2",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Hwoarang.jpg",
+          "name": "Hwoarang",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Jin.jpg",
+          "name": "Jin",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Kazuya.jpg",
+          "name": "Kazuya",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Kazuya2.jpg",
+          "name": "Kazuya2",
+          "movelist": []
+        },
+        {
+          "thumbnail": "King.jpg",
+          "name": "King",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Kunimitsu.jpg",
+          "name": "Kunimitsu",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Law.jpg",
+          "name": "Law",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Nina.jpg",
+          "name": "Nina",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Ogre.jpg",
+          "name": "Ogre",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Paul.jpg",
+          "name": "Paul",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Unknown.jpg",
+          "name": "Unknown",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Xiaoyu.jpg",
+          "name": "Xiaoyu",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Jin Kazama.jpg",
+          "name": "Jin Kazama",
+          "movelist": []
+        }
+      ]
+    },
+    {
+      "sagaName": "Thundercats",
+      "chars": [
+        {
+          "thumbnail": "Lion.jpg",
+          "name": "Lion",
+          "movelist": []
+        }
+      ]
+    },
+    {
+      "sagaName": "YUYU Hakusho",
+      "chars": [
+        {
+          "thumbnail": "Chu.jpg",
+          "name": "Chu",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Genkai.jpg",
+          "name": "Genkai",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Hiei.jpg",
+          "name": "Hiei",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Jin.jpg",
+          "name": "Jin",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Kuwabara.jpg",
+          "name": "Kuwabara",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Kurama Yoko.jpg",
+          "name": "Kurama Yoko",
+          "movelist": []
+        },
+        {
+          "thumbnail": "Yusuke.jpg",
+          "name": "Yusuke",
+          "movelist": []
+        }
+      ]
+    },
+    {
+      "sagaName": "Zelda",
+      "chars": [
+        {
+          "thumbnail": "Link.jpg",
+          "name": "Link",
+          "movelist": []
+        }
+      ]
+    }
+  ]
+}
